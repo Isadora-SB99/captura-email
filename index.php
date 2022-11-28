@@ -8,7 +8,17 @@
 </head>
 <body>
 <!---------------------------------------------------------------------------------------------------------------------------
-O objetivo de uma página de  captura de emails é atrair potenciais cliente para um determinado negócio. Com emails obtidos é possível:construir um Banco de Dados; melhorar relacionamento com leads/clientes; organizar a comunicação por nichos ou áreas; mapear o momento de compra do cliente; apresentar com mais detalhe o produto/serviço; entregar um conteúdo de valor para a audiência; filtrar a audiência das redes socias para aumentar as vendas;  incentivar clientes a comprar um produto/serviço; automatizar o relacionamento com os leads/clientes.
+O objetivo de uma página de  captura de emails é atrair potenciais clientes para um determinado negócio. 
+Com emails obtidos é possível: 
+-construir um Banco de Dados;
+-melhorar relacionamento com leads/clientes;
+-organizar a comunicação por nichos ou áreas;
+-mapear o momento de compra do cliente;
+-apresentar com mais detalhe o produto/serviço;
+-entregar um conteúdo de valor para a audiência;
+-filtrar a audiência das redes socias para aumentar as vendas;
+-incentivar clientes a comprar um produto/serviço;
+-automatizar o relacionamento com os leads/clientes.
 
 Nesta tarefa vocês deverão construir uma página para captura de emails.
 Para atrair usuários dispostos a fornecer seus email, ofereçam um arquivo para download.
